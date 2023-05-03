@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="G:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1429738194"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw2 -godwarfsets -gl -WG -l -vewnhibq &quot;-FiC:\Users\artem\OneDrive\Рабочий стол\DKR_8-main\lib\x86_64-win64&quot; -FuG:\lazarus\lcl\units\x86_64-win64\win32 -FuG:\lazarus\lcl\units\x86_64-win64 -FuG:\lazarus\components\freetype\lib\x86_64-win64 -FuG:\lazarus\components\lazutils\lib\x86_64-win64 -FuG:\lazarus\packager\units\x86_64-win64 &quot;-FuC:\Users\artem\OneDrive\Рабочий стол\DKR_8-main\&quot; &quot;-FUC:\Users\artem\OneDrive\Рабочий стол\DKR_8-main\lib\x86_64-win64\&quot; &quot;-FEC:\Users\artem\OneDrive\Рабочий стол\DKR_8-main\&quot; &quot;-oC:\Users\artem\OneDrive\Рабочий стол\DKR_8-main\dkr.exe&quot; -dLCL -dLCLwin32 dkr.lpr"/>
+</CONFIG>
